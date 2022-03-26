@@ -1,2 +1,2 @@
 # Bastion
-Your Mental Health Companion
+## Your Mental Health Companion (Hack&Heal Hackathon)
