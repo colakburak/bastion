@@ -1,2 +1,2 @@
-# bastion
+# Bastion
 Your Mental Health Companion
