@@ -23,3 +23,7 @@ Most people these days tend to search about their personal problems on the inter
 
 
 We plan to develop our project into a flexible API that can be implemented both by local healthcare tracking systems such as EESZT in Hungary and by other organizations operating on a global scale. We are also planning to add features that can inform non-professionals on the symptoms and treatment methods of depression so that people living in a fragile setting such as war, scarcity, etc. can help their community members tackle depression. Bastion can also provide a crucial database to healthcare researchers by showing local trends that might lead to depression and various other mental health problems all while protecting user privacy through data through pre-trained AI datasets which ensures no personally-identifiable user data ever leaves their device.
+
+### As a result of our chat bot:
+
+![finallllllllllllllllllll](https://user-images.githubusercontent.com/63854390/160268799-b41edbf5-5140-4a4b-bfb3-42560c7cb0d0.jpg)
