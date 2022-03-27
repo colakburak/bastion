@@ -1,0 +1,28 @@
+what is your name?;Rone
+what is your number?;1
+name?;Ro
+what is your age?;23
+i don't feel good lately?;Would you like to talk about it
+how do you feel?;I feel good
+i do not feel sad.; That's great!
+i feel sad.;Don't be sad!
+i am sad all the time and I can't snap out of it?; Would you like to talk about it?
+i am so sad and unhappy that I can't stand it?;Would you like to talk about it?
+0;Nice
+1;Okay
+2;I see
+3;...
+
+how do you feel?;I feel good
+i dont feel good lately?;
+i don't feel good lately?;
+do you need help?;I need help
+i feel sad.;
+i feel bad.;I want to help you.
+yes.;I see.
+i make decisions about as well as i ever could.;
+i feel good.;That's great
+no.;Nice
+
+4;5
+6;
