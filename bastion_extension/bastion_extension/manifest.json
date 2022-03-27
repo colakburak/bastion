@@ -1,0 +1,30 @@
+{
+  "name": "Bastion",
+  "description": "Your mental health companion!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon":{
+      "16":"./imgs/icon.png",
+      "32":"./imgs/icon.png",
+      "48":"./imgs/icon.png",
+      "128":"./imgs/icon.png"
+    }
+  },
+  "icons":{
+    "16":"./imgs/default.png",
+    "32":"./imgs/default.png",
+    "48":"./imgs/default.png",
+    "128":"./imgs/default.png"
+  }
+
+}

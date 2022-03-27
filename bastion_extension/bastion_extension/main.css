@@ -1,0 +1,99 @@
+body{
+  background-color: white;
+}
+#popup{
+  padding-left: 10px;
+  padding-right: 10px;
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+}
+.container{
+  margin-top: -12px;
+  width: 10rem;
+  display: flex;
+  justify-content: center;
+  font-family: 'Montserrat', sans-serif;
+  user-select: none;
+}
+.profile{
+  display: flex;
+}
+.divider{
+  margin-bottom:5px;
+  margin-top: 1rem;
+  height: 1px;
+  background-color: #061459;
+}
+.dividerneg{
+  margin-bottom:5px;
+  margin-top: 1rem;
+  height: 1px;
+  background-color: red;
+}
+#settings{
+  display: flex;
+  justify-content: space-between;
+}
+.setting{
+  font-size: 10px;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#dashboard:hover{
+  font-size: 10.2px;
+  transition: font-size .3s;
+}
+#logout:hover{
+  font-size: 10.2px;
+  transition: font-size .3s;
+}
+#dashboard{
+  font-weight: bold;
+}
+#dashboard:link{
+  text-decoration: none;
+  color: black;
+}
+#dashboard:visited{
+  text-decoration: none;
+  color: black;
+}
+#logout:link{
+  text-decoration: none;
+  color: black;
+}
+#logout:visited{
+  text-decoration: none;
+  color: black;
+}
+#logo{
+  padding-top: 13px;
+  width: 48px;
+  height: 48px;
+}
+.pp{
+  width: 3rem;
+  height: 3rem;
+  border: 1px solid #061459;
+  border-radius: 100%;
+  overflow: hidden;
+}
+#photo{
+  margin-left: -6px;
+  width: 4rem;
+}
+h2{
+  padding: 5px;
+  font-weight: 200;
+  font-size: 12px;
+}
+#name{
+  font-weight: 500;
+}
+h3{
+  margin-top: -14px;
+  font-size: 8px;
+  text-align: right;
+  padding-right: 19px;
+}
