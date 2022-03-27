@@ -1,0 +1,14 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.header{
+    text-align: center;
+    margin: auto;
+    display:block ;
+}
+form.class{
+    margin: auto;
+}
+form input{
+    width: 500px;
+}
